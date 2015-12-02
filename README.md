@@ -1,12 +1,12 @@
 # Junicode
 
 This Git is just an actualisation of the Junicode repository, this one doesn't include the condensed version.
-[Junicode project page](http://junicode.sourceforge.net/)
-[Junicode download page](http://sourceforge.net/projects/junicode/?source=typ_redirect)
++ [Junicode project page](http://junicode.sourceforge.net/)
++ [Junicode download page](http://sourceforge.net/projects/junicode/?source=typ_redirect)
 
 ## Specimen
 
-![Demo-specimen-001](https://github.com/Fromager/junicode/documentation/images/junicode_specimen.svg)
+![Junicode_specimen-001](https://rawgit.com/Fromager/junicode/master/documentation/images/Junicode_specimen.svg)
 
 ## License
 
